@@ -1,0 +1,12 @@
+BannedShoutBan:
+- PLACEHOLDERPLAYER
+#You can remove the playerholderplayer as long as the list is never empty. I will fix this eventually xD
+
+cooldowntime: 60
+#Cooldown timer in seconds
+
+regular-format: '&3[&aShout&3] &7%playername% &c> &5%msg%'
+#Format for normal players 
+
+staff-format: '&3[&aShout&3] &4(Staff) &6%playername% &c> &5%msg%'
+#Format for players with bungeeshout.staff 
